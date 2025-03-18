@@ -1,0 +1,6 @@
+dimod==0.12.18
+dwave-neal==0.6.0
+dwave-samplers==1.4.0
+metis==0.2a5
+numpy==1.24.3
+pandas==2.0.3

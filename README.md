@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the software to solve the First Responder Network Design Problem (FRNDP) using the GAGA method and the Branch-and-Bound algorithm, which is the cSOA for this problem. We also provide the following:
+This repository contains the software to solve the First Responder Network Design Problem (FRNDP) using the GAGA method developed in https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2024.0574 and the Branch-and-Bound algorithm, which is the cSOA for this problem. We also provide the following:
 1. Data instances generated for benchmarking.
 2. Scripts to run GAGA and Branch-and-Bound.
 3. Statistical analysis scripts to generate the Time-to-solution (TTS), Energy-to-solution (ETS) metrics and also to obtain metrics per batch. 
